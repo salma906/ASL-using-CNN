@@ -1,2 +1,4 @@
 # ASL-using-CNN
 ASL AI – American Sign Language Recognition System  Developed an AI-powered American Sign Language (ASL) recognition system using a Convolutional Neural Network (CNN) 
+ASL AI – American Sign Language Recognition System.
+Developed an AI-powered American Sign Language (ASL) recognition system using a Convolutional Neural Network (CNN) to classify hand-sign images into their corresponding ASL letters. The project included image preprocessing, dataset preparation, model training, validation, and performance evaluation. Early stopping was implemented to prevent overfitting and automatically stop training when validation performance stopped improving. Model performance was evaluated using accuracy/loss curves and a confusion matrix, and the final system allows users to test the trained model with their own hand-sign images.
